@@ -1,0 +1,4 @@
+This is all the code used in my personal unity Project.
+the Goal of the game is to pet a slime and get points as a result.
+with the points you can buy mulitpliers or various apperal for your slime.
+the game keeps track of your highest points with a milestone system that will change the model of the slime.
