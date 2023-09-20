@@ -1,0 +1,1 @@
+This is a pop up game made in Java. I lead a team of 3 others to make this for a final project centered around Object Oriented Programming. It utilizes a UI display as the main HUD. In this game you make binary descisons to react to the text that is displayed.
